@@ -6,4 +6,4 @@ While the code may not be impeccably clean and comprehensive, it still encapsula
 
 --- 
 
-Feel free to reach out and provide feedback or inquiries. These projects demonstrate the evolving expertise in the field of data science.
+Feel free to reach out and provide feedback or inquiries! These projects demonstrate the evolving expertise in the field of data science.
